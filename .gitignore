@@ -1,0 +1,19 @@
+# Dependencies
+node_modules
+
+# Builds
+dist
+.next
+out
+build
+
+# Env
+.env
+.env.local
+.env*.local
+
+# Misc
+*.log
+.DS_Store
+.vercel
+next-env.d.ts
